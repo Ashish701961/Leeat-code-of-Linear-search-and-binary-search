@@ -1,1 +1,1 @@
-# Leeat-code-of-Linear-search-and-binary-search
+# Leet-code-of-Linear-search-and-binary-search
